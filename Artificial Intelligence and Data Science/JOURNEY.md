@@ -11,3 +11,12 @@
 > - Time Stamp : 1:51:00
 >
 > ##### Day Ends...
+
+> ## **Day 2 :**
+>
+> _27/12/2021_
+>
+> - What is COVARIANCE? What is CORRELATION? ( [Youtube Link](https://www.youtube.com/watch?v=mG__Wpp9dns) )
+> - Simple Linear Regression ( [Youtube Link](https://www.youtube.com/watch?v=Ni5QwU-xaUs) )
+>
+> ##### Day Ends...
