@@ -22,3 +22,12 @@
 > - Simple Linear Regression ( [Youtube Link](https://www.youtube.com/watch?v=Ni5QwU-xaUs) )
 >
 > ##### Day Ends...
+
+> ## **Day 3 :**
+>
+> _28/12/2021_
+>
+> - Machine Learning Course for Beginners
+>   ( [Youtube Link with Time Stamp [ 1:03:12 ]](youtube.com/watch?v=NWONeJKn6kc&t=3780s) )
+>
+> ##### Day Ends...
