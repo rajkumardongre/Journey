@@ -31,3 +31,12 @@
 >   ( [Youtube Link with Time Stamp [ 1:03:12 ]](youtube.com/watch?v=NWONeJKn6kc&t=3780s) )
 >
 > ##### Day Ends...
+>
+> ## **Day 4 :**
+>
+> _29/12/2021_
+>
+> - kaggle.com
+>   ( [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) )
+>
+> ##### Day Ends...
